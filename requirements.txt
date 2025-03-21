@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+flask-restx
+marshmallow-sqlalchemy
+uuid
+pytest

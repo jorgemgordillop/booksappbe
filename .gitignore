@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite
+instance/
+.webassets-cache
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+.eggs/
+.idea/
+.DS_Store
+# Archivos de configuración sensibles
+config.py
